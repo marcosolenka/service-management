@@ -1,4 +1,5 @@
 # service-management
+Este projeto tem por finalidade implementar de forma simples a apresentação de um sistema de gerenciamento de ordens de serviço, com funções para adicionar ordem, listar as ordens abertas, alterar o status das ordens e exibi-las, caso deseje, em um painel. Foi utilizado Framework css bootstrap.
 
 - [ ] Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
 - [ ] Usar componentes de algum framework CSS (Bootstrap, Materialize ou outro)
