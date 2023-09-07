@@ -1,14 +1,48 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Service Management</title>
+    <link rel="stylesheet" href="assets/resources/styles/index.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 </head>
 
 <body>
+    <div id="body" class="container mw-100 vh-100 d-flex justify-content-center align-items-center">
+        <div class=" container">
+            <div class=" row px-5">
+                <input type="email" class="form-control mb-3 text-center" id="email-input" placeholder="Usuário" />
+            </div>
+            <div class="row px-5">
+                <input type="password" class="form-control mb-3 text-center" id="pass-input" placeholder="Senha" />
+            </div>
+            <div class="row px-5">
+                <button type="button" id="login-btn" class="btn btn-success text-center">
+                    Entrar
+                </button>
+            </div>
+        </div>
+        <!--Footer-->
+        <footer class="footer fixed-bottom">
+            <div class="row text-white">
+                <p class="col d-flex justify-content-center">service management v1.00.00
+                </p>
+            </div>
 
+            <div class="row">
+                <p class="col d-flex justify-content-center text-white">Desenvolvido por: Marcos vinicius Olenka de
+                    macedo</p>
+            </div>
+        </footer>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous">
+    </script>
 </body>
 
 </html>

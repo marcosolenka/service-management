@@ -1,0 +1,31 @@
+@font-face {
+    font-family: AlumniSans-Regular;
+    src: url(../fonts/Alumni_Sans/static/AlumniSans-Regular.ttf)
+}
+
+
+#body {
+    background-color: #052C65;
+    font-family: AlumniSans-Regular;
+    font-size: 20px;
+}
+
+p {
+    font-family: AlumniSans-Regular;
+    font-size: .75em;
+}
+
+#login-btn {
+    font-family: AlumniSans-Regular;
+    font-size: 1.5em;
+}
+
+#email-input {
+    font-family: AlumniSans-Regular;
+    font-size: 1.5em;
+}
+
+#pass-input {
+    font-family: AlumniSans-Regular;
+    font-size: 1.5em;
+}
