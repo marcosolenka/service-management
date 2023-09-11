@@ -1,0 +1,21 @@
+@font-face {
+    font-family: AlumniSans-Regular;
+    src: url(../../assets/resources/fonts/Alumni_Sans/static/AlumniSans-Light.ttf)
+}
+
+
+#body {
+    background-color: #052C65;
+    font-family: AlumniSans-Regular;
+    font-size: 20px;
+}
+
+p {
+    font-family: AlumniSans-Regular;
+    font-size: 1em;
+}
+
+.max-4rem {
+    max-width: 4rem;
+    max-height: 4rem;
+}
