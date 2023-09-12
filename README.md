@@ -1,6 +1,10 @@
 # service-management
 Este projeto tem por finalidade implementar de forma simples a apresentação de um sistema de gerenciamento de ordens de serviço, com funções para adicionar ordem, listar as ordens abertas, alterar o status das ordens e exibi-las, caso deseje, em um painel. Foi utilizado Framework css bootstrap.
 
+# slogan
+
+"Simplificando ordens, otimizando resultados."
+
 # Protótipo
 https://www.figma.com/file/JwXpYg2gixl7qsmbZY3UnJ/Untitled?type=design&node-id=0-1&mode=design&t=ObTFhDxEWAzag6c0-0
 
@@ -8,8 +12,8 @@ https://www.figma.com/file/JwXpYg2gixl7qsmbZY3UnJ/Untitled?type=design&node-id=0
 
 RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
 - [ X ] ID1 - Implementa um layout responsivo de uma página web utilizando um Framework CSS, como Bootstrap ou Tailwind, que se adapta adequadamente a diferentes tamanhos de tela e dispositivos.
-- [ ] ID2 - Utiliza técnicas avançadas de CSS, como Flexbox ou Grid Layout, para criar layouts responsivos e fluidos em diferentes resoluções de tela.
-- [ ] ID3 - Utiliza os componentes CSS e JavaScript oferecidos por um Framework CSS, como cards, modais ou carrosséis, aplicando estilos personalizados conforme o necessário.
+- [ X ] ID2 - Utiliza técnicas avançadas de CSS, como Flexbox ou Grid Layout, para criar layouts responsivos e fluidos em diferentes resoluções de tela.
+- [ X ] ID3 - Utiliza os componentes CSS e JavaScript oferecidos por um Framework CSS, como cards, modais ou carrosséis, aplicando estilos personalizados conforme o necessário.
 - [ ] ID4 - Implementa um layout fluido e responsivo utilizando unidades de viewport relativas (vw, vh) em vez de unidades fixas (px) para criar uma experiência de usuário consistente em diferentes dispositivos e tamanhos de tela.
 - [ ] ID5 - Implementa animações em elementos da página, como hover, fadeIn/fadeOut, slideIn/slideOut, utilizando CSS Animations ou bibliotecas de animação, como o Animate.css, para fornecer feedback visual ao usuário e criar uma experiência interativa.
 - [ ] ID6 - Cria transições personalizadas entre diferentes estados da página ou elementos, como mudanças de layout, alterações de cor ou exibição/hide de elementos, usando CSS Transitions ou CSS Animation, para melhorar a usabilidade e a aparência da aplicação.
